@@ -21,7 +21,11 @@ https://github.com/user-attachments/assets/9b7ad7b9-0b25-4338-83a6-bea6377f0d72
   
 [Frontend Developer]
 - 시간대별 양불여부 결과 통계 페이지 구현 
-- 실시간 이미지 투입 결과에 따른 결과 반환하는 ui,ux 및 api 구현 
+- 실시간 이미지 투입 결과에 따른 결과 반환하는 ui,ux 및 api 구현
+
+# Flowchart
+![image](https://github.com/user-attachments/assets/5cc80266-9554-440f-b205-03cacc7e6e72)
+
 
 # Architecture
 ![image](https://github.com/user-attachments/assets/74a1d328-3400-4674-9273-75b411600f55)
