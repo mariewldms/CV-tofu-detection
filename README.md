@@ -9,6 +9,9 @@ AI Nation : AWS 컴퓨팅 비전 프로젝트
 # Info 
 SM 두부 공장에서 생산된 두부 데이터의 불량 여부를 판정해 실시간으로 결과를 반환하는 서비스 페이지 제작 
 
+https://github.com/user-attachments/assets/9b7ad7b9-0b25-4338-83a6-bea6377f0d72
+
+
 
 # Role 
 [AWS Infra]
